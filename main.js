@@ -1,3 +1,6 @@
 function criaCartao(){
-    let container= flashcards.getElementById('container');
+    let container= document.getElementById('container');
+    let cartao= document.createElement('article');
+    cartao.className = 'cartao';
+    cartao.innerHTML = `
 }
