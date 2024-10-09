@@ -1,5 +1,5 @@
 :root{
-    --fundo:#D3D3D3;
+    --fundo:#C0C0C0;
     --cartao-frente:#8B008B;
     --cartao-verso:#000080;
     --destaque:#FFFAFA;
@@ -8,6 +8,7 @@
 }
 body{
     background-color: var(--fundo);
+    margin: 0;
 }
 footer{
     position: fixed;
