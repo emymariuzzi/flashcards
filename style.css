@@ -6,3 +6,6 @@
     --preto:#000000;
     --branco:#F8F8FF;
 }
+body{
+    background-color: var(--fundo);
+}
