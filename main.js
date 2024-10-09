@@ -1,4 +1,4 @@
-function criaCartao(){
+function criaCartao(categoria,pergunta,resposta){
     let container= document.getElementById('container');
     let cartao= document.createElement('article');
     cartao.className = 'cartao';
@@ -11,5 +11,6 @@ function criaCartao(){
     <div class="resposta-cartao">
         <p>resposta</p>
     </div>
-</div>
+</div>`
+container.appendChild(cartao);
 }
