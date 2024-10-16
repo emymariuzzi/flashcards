@@ -57,3 +57,6 @@ footer{
         font-weight: 700;
         color: var(--destaque);
     }
+    .cartao:hover .conteudocartao{
+        transform: rotateY(180deg);
+    }
