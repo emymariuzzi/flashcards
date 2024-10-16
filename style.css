@@ -60,7 +60,7 @@ footer{
         font-weight: 700;
         color: var(--destaque);
     }
-    .cartao:hover .conteudocartao{
+    .cartao:active .conteudocartao{
         transform: rotateY(180deg);
     }
     .pergunta-cartao,.resposta-cartao{
