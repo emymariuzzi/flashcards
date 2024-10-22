@@ -42,5 +42,5 @@ footer{
     border-radius: 10px;
 }
 .conteudocartao:hover{
-    transform: scale(1.02);
+    transform: scale(1.01);
 }
