@@ -34,3 +34,8 @@ footer{
     gap: 3rem;
     padding: 20px;
 }
+.conteudocartao{
+    padding: 40px;
+    background-color: var(--cartao-frente);
+    box-shadow: 2px 2px 2px var(--preto);
+}
