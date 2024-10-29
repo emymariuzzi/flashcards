@@ -43,7 +43,7 @@ footer{
     cursor: pointer;
 }
 .conteudocartao:hover{
-    transform: scale(1.02);
+    transform: scale(1.008);
 }
 .resposta-cartao{
     background-color: var(--cartao-verso);
