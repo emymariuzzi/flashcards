@@ -45,3 +45,7 @@ footer{
 .conteudocartao:hover{
     transform: scale(1.02);
 }
+.resposta-cartao{
+    background-color: var(--cartao-verso);
+    color: var(--branco);
+}
